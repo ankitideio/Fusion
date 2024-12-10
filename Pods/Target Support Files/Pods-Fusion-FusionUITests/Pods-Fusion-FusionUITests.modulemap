@@ -1,0 +1,6 @@
+framework module Pods_Fusion_FusionUITests {
+  umbrella header "Pods-Fusion-FusionUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

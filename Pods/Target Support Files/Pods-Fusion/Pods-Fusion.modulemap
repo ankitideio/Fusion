@@ -1,0 +1,6 @@
+framework module Pods_Fusion {
+  umbrella header "Pods-Fusion-umbrella.h"
+
+  export *
+  module * { export * }
+}

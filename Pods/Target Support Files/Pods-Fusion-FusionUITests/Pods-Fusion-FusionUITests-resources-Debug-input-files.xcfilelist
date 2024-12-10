@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Fusion-FusionUITests/Pods-Fusion-FusionUITests-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/SwiftMessages/SwiftMessages.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/gRPC-C++/gRPCCertificates-Cpp.bundle

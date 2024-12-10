@@ -1,0 +1,80 @@
+{
+  "identifier" : "DB313EDA",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "19.99",
+      "familyShareable" : false,
+      "internalID" : "6445546846",
+      "localizations" : [
+        {
+          "description" : "Buy  40 credits in $20",
+          "displayName" : "Buy  40 credits in $20",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.AppFusion.FortyCredit",
+      "referenceName" : "FortyCredits",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "199.99",
+      "familyShareable" : false,
+      "internalID" : "6445546849",
+      "localizations" : [
+        {
+          "description" : "Buy  400 credits in $200",
+          "displayName" : "Buy  400 credits in $200",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.AppFusion.FourHundredCredit",
+      "referenceName" : "FourHundredCredit",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "49.99",
+      "familyShareable" : false,
+      "internalID" : "6445546997",
+      "localizations" : [
+        {
+          "description" : "Buy  100 credits in $50",
+          "displayName" : "Buy  100 credits in $50",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.AppFusion.HundredCredit",
+      "referenceName" : "HundredCredit",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "99.99",
+      "familyShareable" : false,
+      "internalID" : "6445547019",
+      "localizations" : [
+        {
+          "description" : "Buy  200 credits in $100",
+          "displayName" : "Buy  200 credits in $100",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.AppFusion.TwoHundredCredit",
+      "referenceName" : "TwoHundredCredit",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "1668071998",
+    "_developerTeamID" : "9CHFU89BJ2",
+    "_lastSynchronizedDate" : 696861049.34736502
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
